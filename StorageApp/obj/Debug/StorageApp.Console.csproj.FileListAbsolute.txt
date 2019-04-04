@@ -1,0 +1,10 @@
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.exe.config
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.exe
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.pdb
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.Models.dll
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\bin\Debug\StorageApp.Models.pdb
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.Console.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.Console.csproj.CoreCompileInputs.cache
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.Console.csproj.CopyComplete
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.exe
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.pdb

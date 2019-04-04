@@ -1,0 +1,2 @@
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csprojAssemblyReference.cache
+c:\users\скоропадиг.corp\source\repos\StorageApp\StorageApp\obj\Debug\StorageApp.csproj.CoreCompileInputs.cache
